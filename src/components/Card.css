@@ -1,12 +1,9 @@
 .card_parent {
-  /* border: 1px solid black; */
   width: max-content;
-  /* display: flex; */
   padding: 1rem;
 }
 
 .card_img {
-  /* border: 1px solid black; */
   width: 200px;
 }
 

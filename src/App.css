@@ -72,17 +72,11 @@ h2 {
   .app_cards_container {
     margin: 0 10rem;
   }
-  .app_cards {
-    /* width: 33.333%; */
-  }
 }
 
 @media only screen and (max-width: 900px) and (min-width: 600px) {
   .app_cards_container {
     margin: 0 4rem;
-  }
-  .app_cards {
-    /* width: 33.333%; */
   }
 }
 
